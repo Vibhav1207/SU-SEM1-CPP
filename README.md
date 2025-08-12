@@ -35,11 +35,7 @@
 | [Question1.cpp](./07-08-25/Question1.cpp) | WAP to reverse a digit and print the reversed integer varibale |
 | [Question2.cpp](./07-08-25/Question2.cpp) | WAP to swap two numbers |
 
-### 12-08-25
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./12-08-25/Question1.cpp) | *(empty)* |
-| [Test.cpp](./12-08-25/Test.cpp) | Simple if-else test |
+
 
 ---
 
