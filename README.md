@@ -35,6 +35,11 @@
 | [Question1.cpp](./07-08-25/Question1.cpp) | WAP to reverse a digit and print the reversed integer varibale |
 | [Question2.cpp](./07-08-25/Question2.cpp) | WAP to swap two numbers |
 
+### 14-08-25
+| 📝 Question | Title |
+|-------------|-------|
+| [break.cpp](./14-08-25/break.cpp) | Example for break cas ( With some exception will update later) |
+| [continue.cpp](./14-08-25/continue.cpp) | Example for continue case ( With some exception will update later) |
 
 
 ---
