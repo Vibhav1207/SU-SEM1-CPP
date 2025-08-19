@@ -14,8 +14,10 @@ using namespace std;
     int number;
     cout << "Enter a number: ";
     cin>>number;
-    if(checkOddEven(number) == 0)
+    if(checkOddEven(number) == 0){
         cout << number << " is even." << endl;
-    else
+    }
+    else{
         cout << number << " is odd." << endl;
  }
+}
