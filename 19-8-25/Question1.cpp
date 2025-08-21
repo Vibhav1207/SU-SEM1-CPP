@@ -1,23 +1,25 @@
-//WAP a function check the the number is odd or even
+//WAP a function check the the number is odd or even and return true or false
 
 #include <iostream>
 using namespace std;
- int checkOddEven(int num) {
-    if(num%2 ==0){
-        return 0;
+
+bool isOdd(int num) {
+    if (num % 2 != 0) {
+        return true;
     }
-    else{
-        return 1; 
-    }
- }
- int main () {
+    return false;
+}
+
+int main() {
     int number;
     cout << "Enter a number: ";
-    cin>>number;
-    if(checkOddEven(number) == 0){
-        cout << number << " is even." << endl;
+    cin >> number;
+
+    if (isOdd(number)) {
+        cout << number << " is odd and true." << endl;
+    } else {
+        cout << number << " is even and false." << endl;
     }
-    else{
-        cout << number << " is odd." << endl;
- }
+
+    return 0;
 }
