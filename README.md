@@ -35,11 +35,22 @@
 | [Question1.cpp](./07-08-25/Question1.cpp) | WAP to reverse a digit and print the reversed integer varibale |
 | [Question2.cpp](./07-08-25/Question2.cpp) | WAP to swap two numbers |
 
+
 ### 14-08-25
 | 📝 Question | Title |
 |-------------|-------|
 | [break.cpp](./14-08-25/break.cpp) | Example for break cas ( With some exception will update later) |
 | [continue.cpp](./14-08-25/continue.cpp) | Example for continue case ( With some exception will update later) |
+
+### 19-08-25
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./19-08-25/Question1.cpp) | Calculate savings for different categories with leap year and month logic |
+
+### 21-08-25
+| 📝 Question | Title |
+|-------------|-------|
+| [Question2.cpp](./20-8-25/Question2.cpp) | WAP for summation of 2 numbers taken as user input using functions |
 
 
 ---
