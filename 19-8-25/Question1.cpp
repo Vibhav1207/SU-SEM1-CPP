@@ -1,4 +1,4 @@
-//WAP pt check the the number is odd or even
+//WAP a function check the the number is odd or even
 
 #include <iostream>
 using namespace std;

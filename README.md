@@ -45,7 +45,7 @@
 ### 19-08-25
 | 📝 Question | Title |
 |-------------|-------|
-| [Question1.cpp](./19-08-25/Question1.cpp) | Calculate savings for different categories with leap year and month logic |
+| [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even |
 
 ### 21-08-25
 | 📝 Question | Title |
