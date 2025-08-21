@@ -53,6 +53,7 @@
 | [Question1.cpp](./21-8-25/Question1.cpp) | WAP for summation of 2 numbers using functions |
 | [Question2.cpp](./21-8-25/Question2.cpp) | WAP for summation of 2 numbers taken as user input using functions |
 | [Question3.cpp](./21-8-25/Question3.cpp) | WAP to find product of 2 numbers using functions |
+| [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but user input must in the function. |
 
 
 ---
