@@ -5,21 +5,18 @@ using namespace std;
 
 bool isOdd(int num) {
     if (num % 2 != 0) {
+        cout<<"True"<<endl;
         return true;
     }
-    return false;
+    else{
+        cout<<"False"<<endl;
+        return false;
+    }
 }
 
 int main() {
     int number;
     cout << "Enter a number: ";
     cin >> number;
-
-    if (isOdd(number)) {
-        cout << number << " is odd and true." << endl;
-    } else {
-        cout << number << " is even and false." << endl;
-    }
-
-    return 0;
+    isOdd(number);
 }
