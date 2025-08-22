@@ -47,6 +47,7 @@
 |-------------|-------|
 | [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even |
 
+
 ### 21-08-25
 | 📝 Question | Title |
 |-------------|-------|
@@ -54,6 +55,12 @@
 | [Question2.cpp](./21-8-25/Question2.cpp) | WAP for summation of 2 numbers taken as user input using functions |
 | [Question3.cpp](./21-8-25/Question3.cpp) | WAP to find product of 2 numbers using functions |
 | [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but user input must in the function. |
+
+### 22-08-25
+| 📝 Question | Title |
+|-------------|-------|
+| [Queston1.cpp](./22-8025/Queston1.cpp) | Write a fucntion ot find the summation of n natural numbers |
+| [Queston2.cpp](./22-8025/Queston2.cpp) | Write a function for factorial of a user input number |
 
 
 ---
