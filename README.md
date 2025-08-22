@@ -1,4 +1,10 @@
+
 # SU-SEM1-CPP
+
+## 🟢 Now
+
+**Currently working on:** _No activity detected yet_
+
 
 > All the codes/questions done in Sem1, organized by month and date. Click on any question to view its code and description.
 
