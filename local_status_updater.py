@@ -1,5 +1,6 @@
 import os
 import time
+import subprocess
 
 
 workspace_path = r'd:\SU-SEM1-CPP'
@@ -27,6 +28,14 @@ def main():
                 f.write(f"**Currently working on:** `{os.path.relpath(latest, workspace_path)}`\n")
             last_file = latest
             print(f"Updated status: {latest}")
+            # Auto git add, commit, and push
+            try:
+                subprocess.run(["git", "add", "status.md"], cwd=workspace_path, check=True)
+                subprocess.run(["git", "commit", "-m", "Auto-update status"], cwd=workspace_path, check=True)
+                subprocess.run(["git", "push"], cwd=workspace_path, check=True)
+                print("Auto-pushed to GitHub.")
+            except subprocess.CalledProcessError as e:
+                print(f"Git auto-push failed: {e}")
         time.sleep(10)  
 
 if __name__ == '__main__':
