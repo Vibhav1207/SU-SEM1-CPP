@@ -1,1 +1,1 @@
-**Currently working on:** `.git\logs\refs\remotes\origin\HEAD`
+**Currently working on:** `.git\logs\refs\remotes\origin\main`
