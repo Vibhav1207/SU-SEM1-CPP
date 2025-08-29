@@ -10,9 +10,12 @@
 
 ---
 
-## 📅 August
+<details open>
+<summary>🌞 <b>August</b> <em>(Click to expand)</em></summary>
 
-### 01-08-25
+<ul>
+<li>📅 <b>01-08-25</b>
+
 | 📝 Question | Title |
 |-------------|-------|
 | [Forloopeg.cpp](./01-08-25/Forloopeg.cpp) | For loop example given in class |
@@ -20,94 +23,62 @@
 | [Question2.cpp](./01-08-25/Question2.cpp) | WAp to print numbers form 25 to 50 using for loop |
 | [Question3.cpp](./01-08-25/Question3.cpp) | WAP to print only even numbers from 10 -50 ( 10 and 50 included) |
 | [Question4.cpp](./01-08-25/Question4.cpp) | WAP to print only odd numbers from 10 -50 ( 10 and 50 included) |
+</li>
+<li>📅 <b>05-08-25</b>
 
-### 05-08-25
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.cpp](./05-08-25/Question1.cpp) | WAP to print numbers divisible by 7, from 1 to 70 |
 | [Question2.cpp](./05-08-25/Question2.cpp) | WAP to print numbers divisible by 17 from 25 to 100 |
 | [Question3.cpp](./05-08-25/Question3.cpp) | WAP to print the  multiplication table of 19 in the format, 19*1 = 19, 19*2 = 38, ..., 19*10 = 190 |
 | [Question4.cpp](./05-08-25/Question4.cpp) | WAP Find the summation of n natural numbers using for loop |
+</li>
+<li>📅 <b>06-08-25</b>
 
-### 06-08-25
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.cpp](./06-08-25/Question1.cpp) | WAP to find the factorial of a user input number |
 | [Question2.cpp](./06-08-25/Question2.cpp) | WAP to find the maximum of 3 numbers given by user input |
+</li>
+<li>📅 <b>07-08-25</b>
 
-### 07-08-25
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.cpp](./07-08-25/Question1.cpp) | WAP to reverse a digit and print the reversed integer varibale |
 | [Question2.cpp](./07-08-25/Question2.cpp) | WAP to swap two numbers |
-
-
-
-<details>
-<summary>14-08-25</summary>
+</li>
+<li>📅 <b>14-08-25</b>
 
 | 📝 Question | Title |
 |-------------|-------|
-| [break.cpp](./14-08-25/break.cpp) | Example for break case (With some exception will update later) |
-| [continue.cpp](./14-08-25/continue.cpp) | Example for continue case (With some exception will update later) |
-| [whiletrue.cpp](./14-08-25/whiletrue.cpp) | condition is true for while loop it will run infinitely. |
-
-</details>
-
-
-<details>
-<summary>19-08-25</summary>
+| [break.cpp](./14-08-25/break.cpp) | Example for break cas ( With some exception will update later) |
+| [continue.cpp](./14-08-25/continue.cpp) | Example for continue case ( With some exception will update later) |
+</li>
+<li>📅 <b>19-08-25</b>
 
 | 📝 Question | Title |
 |-------------|-------|
-| [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even and return true or false |
-
-</details>
-
-
-
-<details>
-<summary>21-08-25</summary>
+| [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even |
+</li>
+<li>📅 <b>21-08-25</b>
 
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.cpp](./21-8-25/Question1.cpp) | WAP for summation of 2 numbers using functions |
 | [Question2.cpp](./21-8-25/Question2.cpp) | WAP for summation of 2 numbers taken as user input using functions |
 | [Question3.cpp](./21-8-25/Question3.cpp) | WAP to find product of 2 numbers using functions |
-| [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but int user input should be in the function |
-
-</details>
-
-
-<details>
-<summary>22-08-25</summary>
+| [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but user input must in the function. |
+</li>
+<li>📅 <b>22-08-25</b>
 
 | 📝 Question | Title |
 |-------------|-------|
+| [Queston1.cpp](./22-8025/Queston1.cpp) | Write a fucntion ot find the summation of n natural numbers |
 | [Queston2.cpp](./22-8025/Queston2.cpp) | Write a function for factorial of a user input number |
+</li>
+</ul>
 
 </details>
-
-<details>
-<summary>28-08-25</summary>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [pointers(eg2).cpp](./28-08-25/pointers(eg2).cpp) | Function to add two numbers and print sum and b |
-
-</details>
-
-<details>
-<summary>29-08-25</summary>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./29-08-25/Question1.cpp) | WAP to swap 2 numbers using swap by reference |
-
-</details>
-
-
----
 
 ## 📅 July
 
