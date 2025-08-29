@@ -2,10 +2,10 @@
 
 #include <iostream>
 using namespace std;
-void swap(int &a, int&b){
-   a = a+b;
-   b =  a-b;
-   a = a-b;
+void swapbyRef(int *a, int *b){
+   *a = *a+*b;
+   *b =  *a-*b;
+   *a = *a-*b;
 
 }
 
@@ -17,7 +17,7 @@ int main() {
     cin >> b;
 
     cout << "Before Swapping a = " << a << " and b = " << b << endl;
-    swap(a, b);
+    swapbyRef(&a, &b);
     cout << "After Swapping a = " << a << " and b = " << b << endl;
     return 0;
 }
