@@ -42,31 +42,69 @@
 | [Question2.cpp](./07-08-25/Question2.cpp) | WAP to swap two numbers |
 
 
-### 14-08-25
+
+<details>
+<summary>14-08-25</summary>
+
 | 📝 Question | Title |
 |-------------|-------|
-| [break.cpp](./14-08-25/break.cpp) | Example for break cas ( With some exception will update later) |
-| [continue.cpp](./14-08-25/continue.cpp) | Example for continue case ( With some exception will update later) |
+| [break.cpp](./14-08-25/break.cpp) | Example for break case (With some exception will update later) |
+| [continue.cpp](./14-08-25/continue.cpp) | Example for continue case (With some exception will update later) |
+| [whiletrue.cpp](./14-08-25/whiletrue.cpp) | condition is true for while loop it will run infinitely. |
 
-### 19-08-25
+</details>
+
+
+<details>
+<summary>19-08-25</summary>
+
 | 📝 Question | Title |
 |-------------|-------|
-| [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even |
+| [Question1.cpp](./19-8-25/Question1.cpp) | WAP a function check the the number is odd or even and return true or false |
+
+</details>
 
 
-### 21-08-25
+
+<details>
+<summary>21-08-25</summary>
+
 | 📝 Question | Title |
 |-------------|-------|
 | [Question1.cpp](./21-8-25/Question1.cpp) | WAP for summation of 2 numbers using functions |
 | [Question2.cpp](./21-8-25/Question2.cpp) | WAP for summation of 2 numbers taken as user input using functions |
 | [Question3.cpp](./21-8-25/Question3.cpp) | WAP to find product of 2 numbers using functions |
-| [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but user input must in the function. |
+| [Question4.cpp](./21-8-25/Question4.cpp) | WAP to find product of 2 numbers using functions but int user input should be in the function |
 
-### 22-08-25
+</details>
+
+
+<details>
+<summary>22-08-25</summary>
+
 | 📝 Question | Title |
 |-------------|-------|
-| [Queston1.cpp](./22-8025/Queston1.cpp) | Write a fucntion ot find the summation of n natural numbers |
 | [Queston2.cpp](./22-8025/Queston2.cpp) | Write a function for factorial of a user input number |
+
+</details>
+
+<details>
+<summary>28-08-25</summary>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [pointers(eg2).cpp](./28-08-25/pointers(eg2).cpp) | Function to add two numbers and print sum and b |
+
+</details>
+
+<details>
+<summary>29-08-25</summary>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./29-08-25/Question1.cpp) | WAP to swap 2 numbers using swap by reference |
+
+</details>
 
 
 ---
