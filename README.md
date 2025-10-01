@@ -11,27 +11,112 @@
 
 <details open>
 
+<summary>🍂 <b>October</b> <em>(Click to expand)</em></summary>
+
+<ul>
+<li>📅 <b>01-10-24</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./01-10-24/Question1.cpp) | Write a function that takes input of two strings and returns a concatenated string of the two strings |
+</li>
+</ul>
+
+</details>
+
+<details open>
+
 <summary>🗓️ <b>September</b> <em>(Click to expand)</em></summary>
 
 <ul>
-<li>
-All September files are now organized in the <b>September</b> folder:
-<br>
-<code>./September/[date]/QuestionX.cpp</code>
-<br>
-For example:
-<ul>
-<li>📅 <b>10-9-25</b>: <code>./September/10-9-25/Question1.cpp</code>, <code>./September/10-9-25/Question2.cpp</code></li>
-<li>📅 <b>11-9-25 (extra dtil patterns)</b>: <code>./September/11-9-25 (extra dtil patterns)/Question1.cpp</code>, ...</li>
-<li>📅 <b>12-9-25</b>: <code>./September/12-9-25/Question1.cpp</code>, <code>./September/12-9-25/Question2.cpp</code></li>
-<li>📅 <b>16-9-25</b>: <code>./September/16-9-25/Question1.cpp</code>, ...</li>
-<li>📅 <b>17-9-25</b>: <code>./September/17-9-25/Question1.cpp</code>, ...</li>
-<li>📅 <b>18-9-25</b>: <code>./September/18-9-25/Question1.cpp</code>, ...</li>
-<li>📅 <b>19-9-25</b>: <code>./September/19-9-25/Question1.cpp</code>, ...</li>
-<li>📅 <b>23-9-25</b>: <code>./September/23-9-25/Question1.cpp</code></li>
-<li>📅 <b>26-9-25</b>: <code>./September/26-9-25/Question1.cpp</code>, ...</li>
-</ul>
-Click on any file in the <b>September</b> folder to view its code and description.
+<li>📅 <b>10-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/10-9-25/Question1.cpp) | Pattern programming question 1 |
+| [Question2.cpp](./September/10-9-25/Question2.cpp) | Pattern programming question 2 |
+</li>
+
+<li>📅 <b>11-9-25 (extra dtil patterns)</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question1.cpp) | Extra pattern programming question 1 |
+| [Question2.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question2.cpp) | Extra pattern programming question 2 |
+| [Question3.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question3.cpp) | Extra pattern programming question 3 |
+| [Question4.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question4.cpp) | Extra pattern programming question 4 |
+| [Question5.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question5.cpp) | Extra pattern programming question 5 |
+| [Question6.cpp](./September/11-9-25%20(extra%20dtil%20patterns)/Question6.cpp) | Extra pattern programming question 6 |
+</li>
+
+<li>📅 <b>12-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/12-9-25/Question1.cpp) | Pattern programming question 1 |
+| [Question2.cpp](./September/12-9-25/Question2.cpp) | Pattern programming question 2 |
+</li>
+
+<li>📅 <b>16-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/16-9-25/Question1.cpp) | Programming exercise question 1 |
+| [Question2.cpp](./September/16-9-25/Question2.cpp) | Programming exercise question 2 |
+| [Question3.cpp](./September/16-9-25/Question3.cpp) | Programming exercise question 3 |
+</li>
+
+<li>📅 <b>17-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/17-9-25/Question1.cpp) | Programming challenge question 1 |
+| [Question2.cpp](./September/17-9-25/Question2.cpp) | Programming challenge question 2 |
+| [Question3.cpp](./September/17-9-25/Question3.cpp) | Programming challenge question 3 |
+| [Question4.cpp](./September/17-9-25/Question4.cpp) | Programming challenge question 4 |
+</li>
+
+<li>📅 <b>18-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/18-9-25/Question1.cpp) | C++ fundamentals question 1 |
+| [Question2.cpp](./September/18-9-25/Question2.cpp) | C++ fundamentals question 2 |
+| [Question3.cpp](./September/18-9-25/Question3.cpp) | C++ fundamentals question 3 |
+| [Question4.cpp](./September/18-9-25/Question4.cpp) | C++ fundamentals question 4 |
+| [Question5.cpp](./September/18-9-25/Question5.cpp) | C++ fundamentals question 5 |
+| [Question6.cpp](./September/18-9-25/Question6.cpp) | C++ fundamentals question 6 |
+| [Question7.cpp](./September/18-9-25/Question7.cpp) | C++ fundamentals question 7 |
+| [Question8.cpp](./September/18-9-25/Question8.cpp) | C++ fundamentals question 8 |
+| [Question9.cpp](./September/18-9-25/Question9.cpp) | C++ fundamentals question 9 |
+| [Question10.cpp](./September/18-9-25/Question10.cpp) | C++ fundamentals question 10 |
+| [Question11.cpp](./September/18-9-25/Question11.cpp) | C++ fundamentals question 11 |
+| [Question12.cpp](./September/18-9-25/Question12.cpp) | C++ fundamentals question 12 |
+| [Question13.cpp](./September/18-9-25/Question13.cpp) | C++ fundamentals question 13 |
+</li>
+
+<li>📅 <b>19-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/19-9-25/Question1.cpp) | Advanced C++ programming question |
+| [Question2.cpp](./September/19-9-25/Question2.cpp) | Data structures implementation |
+</li>
+
+<li>📅 <b>23-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/23-9-25/Question1.cpp) | Algorithm implementation question |
+</li>
+
+<li>📅 <b>26-9-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./September/26-9-25/Question1.cpp) | Problem solving question 1 |
+| [Question2.cpp](./September/26-9-25/Question2.cpp) | Problem solving question 2 |
+| [Question3.cpp](./September/26-9-25/Question3.cpp) | Problem solving question 3 |
 </li>
 </ul>
 
