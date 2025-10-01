@@ -10,66 +10,28 @@
 ---
 
 <details open>
+
 <summary>🗓️ <b>September</b> <em>(Click to expand)</em></summary>
 
 <ul>
-<li>📅 <b>10-9-25</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./10-9-25/Question1.cpp) | WAp to to achive the follwoing array arr[8] = {2 , 4 , 6 ,8 ,10,12, 14,16} |
-| [Question2.cpp](./10-9-25/Question2.cpp) | Suppose you have given a array key = 12 , Write boolean function with takes input of array and key and searches the whole array returns true or false if key present return true else false |
-</li>
-
-<li>📅 <b>11-9-25 (extra dtil patterns)</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question1.cpp) | Print star pattern |
-| [Question2.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question2.cpp) | Print star pattern using only with 2 for loops |
-| [Question3.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question3.cpp) | WAP to print pattern 2 , 4 6 , 8 10 12, 14 16 18 20 |
-| [Question4.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question4.cpp) | WAP to print pattern * , * * *, * * * * *, * * * * * * * |
-| [Question5.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question5.cpp) | WAP to print the pattern 1 , 1 2 , 1 2 3 , 1 2 3 4 |
-| [Question6.cpp](./11-9-25%20(extra%20dtil%20patterns)/Question6.cpp) | WAP to print the pattern 1 , 2 2 , 3 3 3 , 4 4 4 4 |
-</li>
-
-<li>📅 <b>12-9-25</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./12-9-25/Question1.cpp) | Given a array find the largest and smallest element arr[] = { 21, 7, 2 , 45 , 69} |
-| [Question2.cpp](./12-9-25/Question2.cpp) | Given an array. Find the leader in an array. A leader in an array is defined as a value that is strictly greater than all the values to its right in the given array |
-</li>
-
-<li>📅 <b>16-9-25</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./16-9-25/Question1.cpp) | Print characters with spacing pattern |
-| [Question2.cpp](./16-9-25/Question2.cpp) | Print array elements |
-| [Question3.cpp](./16-9-25/Question3.cpp) | Print numbers from 1 to 1000 |
-</li>
-
-<li>📅 <b>17-9-25</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./17-9-25/Question1.cpp) | Print string characters |
-| [Question2.cpp](./17-9-25/Question2.cpp) | Print string characters with loop |
-| [Question3.cpp](./17-9-25/Question3.cpp) | Skip character E using continue statement |
-| [Question4.cpp](./17-9-25/Question4.cpp) | Print characters with specific pattern |
-</li>
-
-<li>📅 <b>18-9-25</b>
-
-| 📝 Question | Title |
-|-------------|-------|
-| [Question1.cpp](./18-9-25/Question1.cpp) | Print 4x4 star pattern |
-| [Question2.cpp](./18-9-25/Question2.cpp) | Print 4x4 star pattern using char variable |
-| [Question3.cpp](./18-9-25/Question3.cpp) | Print 4x4 star pattern |
-| [Question4.cpp](./18-9-25/Question4.cpp) | Print hollow star pattern |
-| [Question5.cpp](./18-9-25/Question5.cpp) | Print triangle star pattern |
-| [Question6.cpp](./18-9-25/Question6.cpp) | Print butterfly pattern |
+<li>
+All September files are now organized in the <b>September</b> folder:
+<br>
+<code>./September/[date]/QuestionX.cpp</code>
+<br>
+For example:
+<ul>
+<li>📅 <b>10-9-25</b>: <code>./September/10-9-25/Question1.cpp</code>, <code>./September/10-9-25/Question2.cpp</code></li>
+<li>📅 <b>11-9-25 (extra dtil patterns)</b>: <code>./September/11-9-25 (extra dtil patterns)/Question1.cpp</code>, ...</li>
+<li>📅 <b>12-9-25</b>: <code>./September/12-9-25/Question1.cpp</code>, <code>./September/12-9-25/Question2.cpp</code></li>
+<li>📅 <b>16-9-25</b>: <code>./September/16-9-25/Question1.cpp</code>, ...</li>
+<li>📅 <b>17-9-25</b>: <code>./September/17-9-25/Question1.cpp</code>, ...</li>
+<li>📅 <b>18-9-25</b>: <code>./September/18-9-25/Question1.cpp</code>, ...</li>
+<li>📅 <b>19-9-25</b>: <code>./September/19-9-25/Question1.cpp</code>, ...</li>
+<li>📅 <b>23-9-25</b>: <code>./September/23-9-25/Question1.cpp</code></li>
+<li>📅 <b>26-9-25</b>: <code>./September/26-9-25/Question1.cpp</code>, ...</li>
+</ul>
+Click on any file in the <b>September</b> folder to view its code and description.
 </li>
 </ul>
 
@@ -218,4 +180,4 @@
 | [hello.cpp](./Basics/hello.cpp) | Hello, World! |
 | [intro.cpp](./Basics/intro.cpp) | Print address |
 
-> _Tip: Click on any question to open it directly in your code editor._
+> _Tip: Click on any question to open it directly in your code editor._ye

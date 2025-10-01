@@ -40,5 +40,8 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
+    },
+    "terminal.integrated.env.windows": {
+        "PATH": "${env:PATH};C:\\MinGW\\bin"
     }
 }
