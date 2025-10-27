@@ -14,12 +14,55 @@
 <summary>🍂 <b>October</b> <em>(Click to expand)</em></summary>
 
 <ul>
-<li>📅 <b>01-10-24</b>
+<li>📅 <b>01-10-25</b>
 
 | 📝 Question | Title |
 |-------------|-------|
-| [Question1.cpp](./01-10-24/Question1.cpp) | Write a function that takes input of two strings and returns a concatenated string of the two strings |
+| [Question1.cpp](./01-10-25/Question1.cpp) | Write a function that takes input of two strings and returns a concatenated string of the two strings |
 </li>
+
+<li>📅 <b>03-10-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./3-10-25/Question1.cpp) | Pattern/programming question 1 |
+| [Question2.cpp](./3-10-25/Question2.cpp) | Pattern/programming question 2 |
+| [Question3.cpp](./3-10-25/Question3.cpp) | Pattern/programming question 3 |
+</li>
+
+<li>📅 <b>08-10-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [MapExample.cpp](./08-10-25/MapExample.cpp) | Map example / demo |
+| [Question1.cpp](./08-10-25/Question1.cpp) | Programming exercise question 1 |
+| [tempCodeRunnerFile.cpp](./08-10-25/tempCodeRunnerFile.cpp) | Temporary code runner file |
+</li>
+
+<li>📅 <b>14-10-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./14-10-25/Question1.cpp) | Programming question 1 |
+| [Question2.cpp](./14-10-25/Question2.cpp) | Programming question 2 |
+</li>
+
+<li>📅 <b>16-10-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [Question1.cpp](./16-10-25/Question1.cpp) | Programming exercise question 1 |
+</li>
+
+<li>📅 <b>17-10-25</b>
+
+| 📝 Question | Title |
+|-------------|-------|
+| [2.cpp](./17-10-25/2.cpp) | Misc / second example |
+| [Question1.cpp](./17-10-25/Question1.cpp) | Programming question 1 |
+| [Question1_map.cpp](./17-10-25/Question1_map.cpp) | Map-variant of Question1 |
+</li>
+
 </ul>
 
 </details>
